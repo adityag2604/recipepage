@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.biryani10{
+    height: 100vh;
+    width: 100%;
+    background-color: #c0c2d7cc;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('../recipepage/img/paneertikka.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.recipe-main .recipe-head h2{
+    text-align: center;
+    padding: 15px;
+    font-size: 70px;
+    font-weight: 700;
+    font-family:app;
+    padding-top: 25px;
+    color: #c0c2d7cc;
+}
+
+.recipe-main .recipe-head .ingredients h3{
+    margin-left: 130px;
+    padding: 15px;
+    font-size: 43px;
+    font-weight: 700;
+    font-family:app;
+    color: #c0c2d7cc;
+}
+
+.recipe-main .recipe-head .ingredients p{
+    margin-left: 110px;
+    /* padding: 15px; */
+    font-size: 20px;
+    font-weight: 600;
+    font-family:app;
+    padding-top: 25px;
+    color: #c0c2d7cc;
+    margin-right: 130px;
+}
+
+.recipe-main .recipe-head .procedure h3{
+    margin-left: 130px;
+    padding: 15px;
+    margin-top: 40px;
+    font-size: 43px;
+    font-weight: 700;
+    font-family:app;
+    color: #c0c2d7cc;
+}
+
+.recipe-main .recipe-head .procedure p{
+    margin-left: 110px;
+    /* padding: 15px; */
+    font-size: 20px;
+    font-weight: 600;
+    font-family:app;
+    padding-top: 20px;
+    color: #c0c2d7cc;
+    margin-right: 125px;
+}
